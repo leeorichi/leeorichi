@@ -1,16 +1,22 @@
 ## Hi there 👋
+I am Ha Van Long (Leeorichi). A Senior developer. 
 
-<!--
-**leeorichi/leeorichi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Devops Position
+- 🌱 I’m currently learning SRE
+- 👯 I’m looking to collaborate on Freelancer
 
-Here are some ideas to get you started:
+[Facebook](https://facebook.com/beatvn03) | [Email](mailto://longhv2206@gmail.com) | [Twitter](https://twitter.com/longhv2206)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left" style="height: 30px">
+
+  <a href="https://havanlong.com" target="_blank">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leeorichi&langs_count=9&hide=html&layout=compact&theme=dracula">
+  </a>
+  
+   <hr > 
+   
+  <a href="https://havanlong.com" target="_blank">
+      <img align="right" src="https://github-readme-stats.vercel.app/api?username=leeorichi&count_private=true&show_icons=true&theme=dracula">
+  </a>
+  
+</div>
